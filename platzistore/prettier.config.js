@@ -1,4 +1,4 @@
-modeule.exports = {
+module.exports = {
     semi: true,
     singleQuote: true,
     printWidth: 200,
@@ -6,4 +6,5 @@ modeule.exports = {
     useTabs: false,
     trailingComma: 'es5',
     bracketSpacing: true,
-}
+  };
+  
